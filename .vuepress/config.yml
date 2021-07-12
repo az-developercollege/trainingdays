@@ -16,3 +16,5 @@ themeConfig:
       './day7/',
     ]
 plugins: [['vuepress-plugin-code-copy', true]]
+markdown:
+  lineNumbers: true
